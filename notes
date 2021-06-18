@@ -1,0 +1,259 @@
+    1  git status
+    2  ls
+    3  ls downloads
+    4  pwd
+    5  -ls 
+    6  ls /downloads
+    7  ls Downloads
+    8  ls
+    9  ls -l
+   10  ls Test
+   11  cd Test
+   12  git status
+   13  git add
+   14  git add LinuxCheatSheet.pdf 
+   15  git commit
+   16  git commit -m " "
+   17  git commit -m "cheatsheet"
+   18  git push
+   19  rm ReadMe2.md
+   20  rm README2.md
+   21  cp README.md README2.md 
+   22  head README2.md
+   23  id
+   24  last
+   25  who
+   26  adduser xu2
+   27  sudo adduser xu2
+   28  sudo su xu2
+   29  mkdir
+   30  mkdir --help
+   31  mkdir test2
+   32  ds
+   33  w
+   34  ls
+   35  ls -a
+   36  id
+   37  cd test2
+   38  touch testfile
+   39  cd
+   40  cd test 2
+   41  cd test2
+   42  ls
+   43  wc
+   44  mv testfile testfile2
+   45  ls
+   46  uname -r
+   47  hostname
+   48  hostname -i
+   49  uptime
+   50  cal
+   51  sudo apt install ncal
+   52  cal
+   53  whoami
+   54  joke
+   55  finger xu
+   56  who
+   57  date
+   58  cowsay
+   59  sudo apt install cowsay
+   60  cowsay
+   61  cowsay "To be or not to be, that is the question."
+   62  sudo apt-get install cmatrix
+   63  cmatrix
+   64  dragonsays
+   65  cowsays
+   66  dragonsay
+   67  ifconfig
+   68  pwd
+   69  ls
+   70  pwd
+   71  ls -l
+   72  pwd
+   73  ls -l /
+   74  pwd
+   75  mkdir
+   76  mkdir/alpha/beta
+   77  mkdir alpha
+   78  mkdir alpha/beta
+   79  rm -r beta
+   80  rm -r alpha
+   81  mkdir alpha
+   82  mkdir alpha/beta
+   83  rm -r alpha/beta
+   84  pwd
+   85  mkdir alpha/beta
+   86  mkdir alpha/beta/charlie
+   87  mkdir alpha/beta/charlie/delta
+   88  cmatrix
+   89  tar
+   90  tar -xf home/xu/alpha
+   91  tar -xf alpha
+   92  tar cf alpha.tar/beta
+   93  tar cf alpha.tar beta
+   94  tar cf alpha.tarp BLS_CPR.pdf
+   95  pwd
+   96  cd /home/
+   97  ls -l
+   98  cd xu
+   99  la -l
+  100  pwd
+  101  cd ..
+  102  pwd
+  103  ls -l -a
+  104  cd
+  105  pwd
+  106  ls -l
+  107  ls -l 
+  108  pwd
+  109  ls -
+  110  ls -l
+  111  rm alpha.tar
+  112  tar ls -l
+  113  ls -l
+  114  tar xf alpha.tar.xz
+  115  ls -l
+  116  tar xf BLS_CPR.tar.xz
+  117  tar cf BLS_CPR.tar xu
+  118  tar cf BLS_CPR.tar home/xu
+  119  tar cf BLS_CPR.tar  /home/xu
+  120  tar cf BLS_CPR.tar home/xu
+  121  tar cf BLS_CPR.tar xu
+  122  tar cf BLS_CPR xu
+  123  tar xf BLS_CPR.tar
+  124  rm BLS_CPR.tar
+  125  tar cf BLS_CPR
+  126  tar cf BLS_CPR xu
+  127  tar cf BLS_CPR.tar
+  128  tar cf BLS_CPR.tar xu
+  129  tar xf BLS_CPR.tar xu
+  130  tar xf BLS_CPR.tar
+  131  rm BLS_CPR
+  132  tar xf BLS_CPR.tar
+  133  rm BLS_CPR.tar
+  134  pwd
+  135  ls
+  136  tar xf OneDrive_1_6-15-2021.zip
+  137  tar xf OneDrive_1_6-15-2021.zip xu
+  138  unzip
+  139  unzip OneDrive_1_6-15-2021.zip xu
+  140  unzip OneDrive_1_6-15-2021.zip
+  141  ifconfig
+  142  mkdir/opt/spacelabs
+  143  mkdir /opt/spacelabs
+  144  mkdir /opt
+  145  mkdir opt
+  146  mkdir opt/spacelabs
+  147  mkdir opt/spacelabs/bin
+  148  mkdir opt/spacelabs/lib
+  149  mkdir opt/spacelabs/var
+  150  tar xf OneDrive_1_6-15-2021.zip
+  151  extract OneDrive_1_6-15-2021.zip 
+  152  sudo apt install extract
+  153  extract OneDrive_1_6-15-2021.zip 
+  154  tar -xf Third_Party_Libs_Cross_Compiled.tar.xz
+  155  extract OneDrive_1_6-15-2021.zip home/xu
+  156  unzip OneDrive_1_6-15-2021.zip 
+  157  tar -xf Third_Party_Libs_Cross_Compiled.tar.xz
+  158  unzip  Third_Party_Libs_Cross_Compiled.tar.xz
+  159  tar -xf Third_Party_Libs_Cross_Compiled.tar.xz
+  160  cp home/xu/Third_Party_Libs_Cross_Compiled/CrossLibs/boost/lib opt/spacelabs/lib
+  161  tar xf Third_Party_Libs_Cross_Compiled.tar.xz
+  162  cp home/xu/Third_Party_Libs_Cross_Compiled/CrossLibs/boost/lib opt/spacelabs/lib
+  163  ls
+  164  cp home/xu/Third_Party_Libs_Cross_Compiled/CrossLibs/boost/lib opt/spacelabs/lib
+  165  ls -l
+  166  tar xf Third_Party_Libs_Cross_Compiled.tar.xz
+  167  ls -l
+  168  ls -l Third*
+  169  pwd
+  170  untar
+  171  tar --help
+  172  tar xf Third_Party_Libs_Cross_Compiled.tar.xz
+  173  ls -l Third*
+  174  ls -l
+  175  sudo apt-get install xz-utils
+  176  unxz Third_Party_Libs_Cross_Compiled.tar.xz
+  177  ls
+  178  tar xf Third_Party_Libs_Cross_Compiled.tar.xz
+  179  tar xf Third_Party_Libs_Cross_Compiled.tar
+  180  ls
+  181  ls -l
+  182  cp home/xu/Third_Party_Libs_Cross_Compiled/CrossLibs/boost/lib opt/spacelabs/lib
+  183  cp home/xu/Crosslibs/boost/lib opt/spacelabs/lib
+  184  cp home/xu/CrossLibs/boost/lib opt/spacelabs/lib
+  185  cp home/xu/CrossLibs/boost/lib/* opt/spacelabs/lib
+  186  ls
+  187  ls -l  home/xu/CrossLibs/boost/lib/
+  188  ls -l  home/xu/CrossLibs/
+  189  ls -l  home/xu/
+  190  pwd
+  191  ls -l  /home/xu/
+  192  ls -l  /home/xu/CrossLibs/
+  193  ls -l  /home/xu/CrossLibs
+  194  ls -l  /home/xu/CrossLibs/boost/lib/
+  195  cp /home/xu/CrossLibs/boost/lib/* opt/spacelabs/lib
+  196  cp -r /home/xu/CrossLibs/boost/lib/* opt/spacelabs/lib
+  197  cp -r /home/xu/CrossLibs/grpc/lib/* opt/spacelabs/lib
+  198  cp -r /home/xu/CrossLibs/wfdb/lib/* opt/spacelabs/lib
+  199  cp -r /home/xu/CrossLibs/jsoncpp/lib/* opt/spacelabs/lib
+  200  cp -r /home/xu/CrossLibs/Sfx/lib/* opt/spacelabs/lib
+  201  ls -l
+  202  tar -xf /home/xu/PAMCrossCompile_SOM_ErvinBranch_04_21_20.tar.gz 
+  203  ls -l
+  204  cp /home/xu/PAMCrossCompile_SOM_ErvinBranch_04_21_20/* opt/spacelabs/lib
+  205  ls -l
+  206  tar -xf /home/xu/UI_LIBS_26042021.tar.xz 
+  207  ls -l
+  208  cp /home/xu/UI_LIBS_26042021/* opt/spacelabs/lib
+  209  cp /home/xu/UI_LIBS_26042021/lib/* opt/spacelabs/lib
+  210  cp /home/xu/UI_LIBS_26042021/lib* opt/spacelabs/lib
+  211  cp /home/xu/UI_LIBS_26042021/UIApplication opt/spacelabs/lib
+  212  cp /home/xu/UI_LIBS_26042021/UIApplication opt/spacelabs/bin
+  213  ls -l
+  214  tar -xf /home/xu/QTemp_CTemp_Cross_Bin.tar.xz 
+  215  cp /home/xu/QTemp_CTemp_Cross_Bin/lib* opt/spacelabs/lib
+  216  cp /home/xu/QTemp_CTemp_Cross_Bin/AHA /opt/spacelabs/bin
+  217  cp /home/xu/QTemp_CTemp_Cross_Bin/lib* /opt/spacelabs/lib
+  218  ls -l
+  219  ls /opt/spacelabs
+  220  ls /opt
+  221  history
+  222  la -l /
+  223  la -l /opt/
+  224  mkdir /opt/spacelabs
+  225  mkdir /opt
+  226  mkdir /opt/spacelabs
+  227  ls -l /opt/
+  228  ls -l /opt/spacelabs
+  229  mkdir /opt/spacelabs
+  230  ls -l /
+  231  sudo chown xu:xu /opt
+  232  ls -l /
+  233  mkdir /opt/spacelabs
+  234  mkdir /opt/spacelabs/bin
+  235  mkdir /opt/spacelabs/lib
+  236  mkdir /opt/spacelabs/var
+  237  cp -r /home/xu/CrossLibs/boost/lib/* /opt/spacelabs/lib
+  238  cp -r /home/xu/CrossLibs/grpc/lib/* /opt/spacelabs/lib
+  239  cp -r /home/xu/CrossLibs/wfdb/lib/* /opt/spacelabs/lib
+  240  cp -r /home/xu/CrossLibs/jsoncpp/lib/* /opt/spacelabs/lib
+  241  cp -r /home/xu/CrossLibs/Sfx/lib/* /opt/spacelabs/lib
+  242  cp -r /home/xu/PAMCrossCompile_SOM_ErvinBranch_04_21_20/* /opt/spacelabs/lib
+  243  cp -r /home/xu/UI_LIBS_26042021/lib* /opt/spacelabs/lib
+  244  cp -r /home/xu/UI_LIBS_26042021/UIApplication /opt/spacelabs/bin
+  245  cp -r /home/xu/QTemp_CTemp_Cross_Bin/lib* /opt/spacelabs/lib
+  246  cp -r /home/xu/QTemp_CTemp_Cross_Bin/AHA /opt/spacelabs/bin
+  247  cp -r /home/xu/QTemp_CTemp_Cross_Bin/DefaultConfig/ /opt/spacelabs/bin
+  248  cp -rf /home/xu/QTemp_CTemp_Cross_Bin/DefaultConfig/ /opt/spacelabs/bin
+  249  ifconfig
+  250  vi /home/xu/run.sh
+  251  sudo apt-install code
+  252  sudo apt-get install code
+  253  snap install code
+  254  snap install --classic code
+  255  code /home/xu/run.sh
+  256  chmod a+x /home/xu/run.sh
+  257  ls -l
+  258  history
+xu@xu-VirtualBox:~$ 
